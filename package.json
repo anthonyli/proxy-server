@@ -1,0 +1,26 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "A terminal application provide proxy static server",
+  "author": "Anthony Li",
+  "bin": {
+    "pss": "bin/proxy.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.3.1",
+    "dev-ip": "^1.0.1",
+    "http-proxy-middleware": "^0.18.0",
+    "koa": "^2.11.0",
+    "koa-nunjucks-2": "^3.0.2",
+    "koa-router": "^8.0.8",
+    "koa-static-cache": "^5.1.2",
+    "koa2-connect": "^1.0.2",
+    "update-notifier": "^4.1.0",
+    "yargs": "^15.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:anthonyli/proxy-server.git"
+  }
+}
