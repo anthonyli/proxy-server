@@ -19,6 +19,11 @@
     "update-notifier": "^4.1.0",
     "yargs": "^15.3.1"
   },
+  "keywords": [
+    "cli",
+    "http-proxy",
+    "static server"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:anthonyli/proxy-server.git"

@@ -45,7 +45,7 @@ pss start
 	"index": "index", // 首页 模板（html）的名称
 	"ext": "html", //首页 模板（html） 后缀名
 	"templateDir": "./static", //  模板（html）目录位置
-	"proxyTable": { // 和 http-proxy-middleware 的配置一直
+	"proxyTable": { // 和 http-proxy-middleware 的配置一致
 		"/api": {
 			"target": "http://127.0.0.1:8080",
 			"changeOrigin": true,
