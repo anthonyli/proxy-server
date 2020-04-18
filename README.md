@@ -22,7 +22,10 @@
 ## 安装
 
 ```bash
-npm i -g pss
+npm i -g pss 
+
+如果没安装可以直接git clone 仓库
+npm link 完就可以使用 pss 命令
 ```
 
 ## 使用
