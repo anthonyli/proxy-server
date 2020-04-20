@@ -1,5 +1,5 @@
 {
-  "name": "proxy-server",
+  "name": "@tntd/proxy-server",
   "version": "1.0.0",
   "description": "A terminal application provide proxy static server",
   "author": "Anthony Li",
